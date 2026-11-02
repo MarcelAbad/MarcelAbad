@@ -18,10 +18,7 @@ Especializado en desarrollo de software y análisis de datos para la toma de dec
 
 ## 👨‍💻 Sobre mí
 
-```bash
-$ whoami
-marcel-abad · DAM + Data Analysis
-```
+<code>$ whoami → marcel-abad · DAM + Data Analysis</code>
 
 - 🎓 Cursando **2º de DAM** (Desarrollo de Aplicaciones Multiplataforma) y un **Máster en Data Analysis**.
 - 🚀 Desarrollando el **backend de la app móvil de un club deportivo**: autenticación, gestión de datos corporativos y bases de datos seguras conforme al **RGPD**.
@@ -98,12 +95,18 @@ marcel-abad · DAM + Data Analysis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarcelAbad&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelAbad&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumen del perfil de GitHub" width="48%" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estadísticas de GitHub" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=MarcelAbad&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelAbad&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositorios por lenguaje" width="48%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes con más commits" width="48%" />
+
+<br/><br/>
+
+![Seguidores](https://img.shields.io/github/followers/MarcelAbad?style=for-the-badge&logo=github&color=2563EB)
+![Repositorios](https://img.shields.io/github/search/MarcelAbad/MarcelAbad/a?style=for-the-badge&label=perfil&color=1E3A8A)
 
 </div>
 
@@ -113,4 +116,6 @@ marcel-abad · DAM + Data Analysis
 
 ✉️ *¿Tienes un proyecto en mente o quieres colaborar? ¡Escríbeme!*
 
-<img
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=120&section=footer" alt="Pie de página" width="100%" />
+
+</div>
