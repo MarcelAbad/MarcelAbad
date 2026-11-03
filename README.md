@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Marcel%20Abad&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Desarrollador%20Multiplataforma%20%7C%20Data%20Analyst&descSize=18&descAlignY=60" alt="Marcel Abad" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1E3A8A,100:2563EB&height=280&section=header&text=Marcel%20Abad&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Desarrollador%20Multiplataforma%20%7C%20Data%20Analyst&descSize=18&descAlignY=62" alt="Marcel Abad" width="100%" />
 <a href="https://github.com/MarcelAbad">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&height=45&lines=Backend+seguro+y+bases+de+datos;An%C3%A1lisis+de+datos+para+decidir+mejor;Java+%7C+Python+%7C+PostgreSQL;Cumplimiento+RGPD+desde+el+dise%C3%B1o" alt="Texto animado" />
 </a>
@@ -122,6 +121,6 @@ Especializado en desarrollo de software y análisis de datos para la toma de dec
 
 ✉️ *¿Tienes un proyecto en mente o quieres colaborar? ¡Escríbeme!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=120&section=footer" alt="Pie de página" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1E3A8A,100:2563EB&height=140&section=footer" alt="Pie de página" width="100%" />
 
 </div>
