@@ -7,8 +7,8 @@
 
 Especializado en desarrollo de software y análisis de datos para la toma de decisiones estratégicas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcel_Abad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_web-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://TU-PROYECTO.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcel_Abad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-abad/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_web-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://marcelabad.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-marcel.abad10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcel.abad10@gmail.com)
 
 </div>
